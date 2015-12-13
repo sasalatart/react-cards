@@ -55,7 +55,7 @@ var Deck = React.createClass({
 
     return (
       <div className="ui raised segment">
-        <a href={"/#/"} className="ui red button">
+        <a href={"/react-cards/#/"} className="ui red button">
           <i className="long arrow left icon"></i>
         </a>
         <h1 className="ui center aligned red segment">
